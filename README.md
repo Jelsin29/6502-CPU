@@ -34,10 +34,6 @@ Once you have assembled the 6502 CPU on the breadboard, you can use the provided
 
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 This project was inspired by the excellent work of [Ben Eater](https://eater.net/). Special thanks to the retrocomputing community for keeping the spirit of classic hardware alive.
